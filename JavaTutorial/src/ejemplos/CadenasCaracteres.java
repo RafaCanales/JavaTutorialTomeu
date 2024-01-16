@@ -28,7 +28,8 @@ public class CadenasCaracteres {
 		System.out.println("texto iguales = " + cadena1.equals(cadena2));
 		System.out.println("último caracter de " + cadena1 + " = " + cadena1.charAt(cadena1.length()-1));
 		System.out.println();
-								
+	    System.out.println("Primer cambio");
+		
 		}
 
 }
