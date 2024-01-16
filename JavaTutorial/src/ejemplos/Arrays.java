@@ -186,6 +186,7 @@ public class Arrays {
 	    for (int i = 0;i < Numero; i++) {
 	    	System.out.println(a1_enteros7[i]+" ");
 	    }   
+		
 	    System.out.println("Primer cambio");
 	    
 	} // main
