@@ -189,7 +189,10 @@ public class Arrays {
 		
 	    System.out.println("Primer cambio");
 	    //comentario
+<<<<<<< HEAD
 	    
+=======
+>>>>>>> branch 'master' of https://github.com/RafaCanales/JavaTutorialTomeu.git
 	} // main
 } // class 
-// jeje
+
